@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeWanAndroid</string>
+    <string name="qa">问答</string>
+    <string name="top">置顶</string>
+</resources>
